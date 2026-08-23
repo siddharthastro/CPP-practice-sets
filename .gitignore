@@ -1,6 +1,5 @@
+
 .vscode/
-.vscode/
-*
-!*/
-!*.*
-!Makefile
+
+a.out
+^[^.]*$
