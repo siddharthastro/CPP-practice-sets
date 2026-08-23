@@ -3,3 +3,5 @@
 
 a.out
 ^[^.]*$
+!Makefile
+!my_script
