@@ -41,7 +41,7 @@ int main()
     {
         std::cout << "Congratulations you found the number!! "<<"\n";
         std::cout << "The number was : " << num << "\n";
-        std::cout << "Your total number of tries was : " << counter << "\n";
+        std::cout << "Your total number of tries was : " << counter - 1 << "\n";
     }
     else 
     {
